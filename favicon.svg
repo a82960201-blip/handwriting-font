@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#0f0e0c"/>
+  <!-- Pen nib shape -->
+  <path d="M16 4 L26 12 L20 28 L16 24 L12 28 L6 12 Z" fill="#e8c97e" opacity="0.15"/>
+  <!-- Ink stroke / letter H stylized -->
+  <path d="M10 8 L10 24 M10 16 L22 16 M22 8 L22 24" 
+        stroke="#e8c97e" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- small dot accent -->
+  <circle cx="22" cy="8" r="1.5" fill="#c97e4e"/>
+</svg>
